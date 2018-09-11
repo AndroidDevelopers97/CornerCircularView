@@ -1,6 +1,7 @@
 # CornerCircularView
 
-[![](https://jitpack.io/v/AndroidDevelopers97/CornerCircularView.svg)](https://jitpack.io/#AndroidDevelopers97/CornerCircularView)
+[![](https://jitpack.io/v/AndroidDevelopers97/CornerCircularViewAD.svg)](https://jitpack.io/#AndroidDevelopers97/CornerCircularViewAD)
+
 
 This library provides you a dynamic rotating circular menu at the bottom right corner to select and start your next activity with the help of Intent.
 
@@ -22,7 +23,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.github.AndroidDevelopers97:CornerCircularView:1.0.0'
+	        implementation 'com.github.AndroidDevelopers97:CornerCircularViewAD:1.0.0'
 	}
 
 Step 3. Add the following tag of CornerCircularView in your xml file
