@@ -35,10 +35,10 @@ For example:-
       android:layout_width="match_parent"
       android:layout_height="match_parent"
       tools:context=".MainActivity">
-      <com.cft.ad.ccv.CornerCircularView
-          android:id="@+id/ccv"
-          android:layout_width="match_parent"
-          android:layout_height="match_parent"/>
+      <com.ad97.ccv.CornerCircularView
+        	android:id="@+id/ccv"
+        	android:layout_width="match_parent"
+        	android:layout_height="match_parent"/>
     </RelativeLayout>
     
 Step 4. Add the following code to your activity.java file 
@@ -46,8 +46,8 @@ Step 4. Add the following code to your activity.java file
 
     import ..
     
-    import com.cft.ad.ccv.CornerCircularView;
-    import com.cft.ad.ccv.ModelInfo;
+    import com.ad97.ccv.CornerCircularView;
+    import com.ad97.ccv.ModelInfo;
 
       public class MainActivity extends AppCompatActivity {
 
